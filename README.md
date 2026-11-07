@@ -1,3 +1,4 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Malavika--2405-EA8DA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malavika-2405)
 
 <div align="center">
 
@@ -147,17 +148,30 @@ An AI-focused development project built with modern web technologies.
 <h3 align="center">🍲 Instant Recipe Generator</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/PYTHON-RECIPE%20RECOMMENDATION-EA8DA8?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-AI%20RECIPE%20GENERATION-EA8DA8?style=flat-square"/>
 </div>
 
-A smart recipe recommendation application that suggests recipes using available ingredients through image detection or manual input.
+A smart recipe recommendation web application that helps users discover recipes based on ingredients available in their kitchen.
 
-- Food-image detection.
-- Ingredient filtering.
-- Favourites and ratings.
-- Nutritional information.
+- 🥕 Image-based ingredient detection.
+- ✍️ Manual ingredient input.
+- 🍽️ Personalized recipe recommendations.
+- 🌎 Cuisine and dietary preference filters.
+- ⏱️ Cooking time and serving size customization.
+- 📊 Nutritional information.
+- ❤️ Favourite recipes and ratings.
+- 🛒 Shopping list generation.
+- 🎲 Surprise Me feature.
 
-**Technologies:** Python · Flask · HTML · CSS · JavaScript
+**Technologies:** Python · Flask · HTML · CSS · JavaScript · SQLite · Gemini API
+
+<div align="center">
+
+<a href="https://github.com/Malavika-2405/Instant-Recipe-Generator">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
@@ -202,7 +216,7 @@ An AI-powered career guidance application currently under development.
 
 **Technologies:** React · Java · Spring Boot · PDFBox
 
-<text>Backend development and integration are still in progress.</text>
+Backend development and integration are still in progress.
 
 </div>
 
@@ -257,10 +271,3 @@ An AI-powered career guidance application currently under development.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F4AFC4,100:DB7093&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
-
-
