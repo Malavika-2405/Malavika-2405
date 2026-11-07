@@ -1,3 +1,4 @@
+
 [![GitHub](https://img.shields.io/badge/GitHub-Malavika--2405-EA8DA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malavika-2405)
 
 <div align="center">
@@ -95,6 +96,10 @@ A Computer Science Engineering student passionate about software development, pr
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="./trusttest-ai-banner.png" width="100%" alt="TrustTest AI Banner"/>
+</div>
+
 <h3 align="center">🛡️ TrustTest AI</h3>
 
 <div align="center">
@@ -122,6 +127,10 @@ An automated LLM quality and reliability testing platform.
 
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="./devcanvas-ai-banner.png" width="100%" alt="DevCanvas AI Banner"/>
+</div>
+
 <h3 align="center">🎨 DevCanvas AI</h3>
 
 <div align="center">
@@ -144,6 +153,10 @@ An AI-focused development project built with modern web technologies.
 
 <tr>
 <td width="50%" valign="top">
+
+<div align="center">
+<img src="./recipe-generator-banner.png" width="100%" alt="Instant Recipe Generator Banner"/>
+</div>
 
 <h3 align="center">🍲 Instant Recipe Generator</h3>
 
@@ -176,6 +189,10 @@ A smart recipe recommendation web application that helps users discover recipes 
 </td>
 
 <td width="50%" valign="top">
+
+<div align="center">
+<img src="./audio-frequency-banner.png" width="100%" alt="Audio Frequency Comparison Banner"/>
+</div>
 
 <h3 align="center">🎵 Audio Frequency Comparison</h3>
 
