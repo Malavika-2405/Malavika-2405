@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Malavika - Computer Science Engineer"/>
+  <img src="./Malavika%E2%80%99s%20Dreamy%20Coding%20Works.png" width="100%" alt="Malavika's GitHub Banner"/>
 </div>
 <div align="center">
 
