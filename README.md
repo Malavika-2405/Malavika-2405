@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./github-banner.png" width="100%" alt="Malavika - Computer Science Engineer"/>
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:172554,100:312E81&text=MALAVIKA%20P.&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20AI&descSize=18&descAlignY=65&stroke=38BDF8&strokeWidth=1" width="100%" />
