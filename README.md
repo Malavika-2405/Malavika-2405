@@ -1,27 +1,33 @@
-<div align="center">
-  <img src="./Malavika%E2%80%99s%20Dreamy%20Coding%20Works.png" width="100%" alt="Malavika's GitHub Banner"/>
-</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:172554,100:312E81&text=MALAVIKA%20P.&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20AI&descSize=18&descAlignY=65&stroke=38BDF8&strokeWidth=1" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Java+%7C+Problem+Solving+%7C+Software+Development;Building+Ideas+Into+Real+Applications;Learning+Today.+Engineering+Tomorrow." />
+<img src="./github-banner.png" width="100%" alt="Malavika's Pink Developer Banner"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=21&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Java+Developer+%7C+Problem+Solver;Aspiring+Software+%26+Systems+Engineer;Building+Ideas+Into+Real+Applications" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/GRADUATION-2027-EA8DA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20SYSTEMS-DB7093?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-F2B6C6?style=for-the-badge"/>
+
+<br/><br/>
+
 <a href="https://github.com/Malavika-2405">
-<img src="https://img.shields.io/badge/GitHub-Malavika--2405-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-Malavika--2405-EA8DA8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/B.E.-CSE-172554?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Batch-2027-312E81?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2 align="center">◈ ABOUT ME</h2>
+<h2 align="center">୨୧ ABOUT ME ୨୧</h2>
 
 <div align="center">
+
+### Hi! I'm Malavika P. 🌷
 
 **I don't just learn technology. I build with it.**
 
@@ -33,22 +39,24 @@ A Computer Science Engineering student passionate about software development, pr
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ What I Do
+### ✨ What I Do
 
 - Develop practical software projects.
 - Solve programming challenges using Java.
 - Explore AI-powered applications.
 - Work with frontend and backend technologies.
+- Learn through hands-on development.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Current Goals
+### 🎀 Current Goals
 
-- Strengthen Java & DSA.
+- Strengthen Java and DSA.
 - Prepare for technical placements.
 - Improve problem-solving skills.
-- Build reliable, real-world applications.
+- Explore software and systems engineering.
+- Build reliable real-world applications.
 
 </td>
 </tr>
@@ -56,27 +64,31 @@ A Computer Science Engineering student passionate about software development, pr
 
 ---
 
-<h2 align="center">◈ TECH STACK</h2>
+<h2 align="center">୨୧ TECHNICAL SKILLS ୨୧</h2>
 
 <div align="center">
 
-**PROGRAMMING**
+**PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=light"/>
 
-**DEVELOPMENT**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=spring,react,flask,html,css,js&theme=dark" />
+**FRAMEWORKS & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=spring,react,flask,html,css,js&theme=light"/>
+
+<br/>
 
 **DATABASES & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=light"/>
 
 </div>
 
 ---
 
-<h2 align="center">◈ FEATURED PROJECTS</h2>
+<h2 align="center">୨୧ FEATURED PROJECTS ୨୧</h2>
 
 <table>
 <tr>
@@ -85,7 +97,7 @@ A Computer Science Engineering student passionate about software development, pr
 <h3 align="center">🛡️ TrustTest AI</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI-Quality%20Testing-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-QUALITY%20TESTING-EA8DA8?style=flat-square"/>
 </div>
 
 An automated LLM quality and reliability testing platform.
@@ -96,12 +108,12 @@ An automated LLM quality and reliability testing platform.
 - Conversation testing.
 - Interactive analytics dashboard.
 
-**Stack:** Python · Streamlit · SQLite · Pytest
+**Technologies:** Python · Streamlit · SQLite · Pytest · Sentence Transformers
 
 <div align="center">
 
 <a href="https://github.com/Malavika-2405/TrustTest-AI">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-1D4ED8?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -109,26 +121,20 @@ An automated LLM quality and reliability testing platform.
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI Career Compass</h3>
+<h3 align="center">🎨 DevCanvas AI</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/AI-Career%20Guidance-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB-APPLICATION-F2B6C6?style=flat-square"/>
 </div>
 
-An intelligent career guidance and resume analysis application.
+An AI-focused development project built with modern web technologies.
 
-- Resume analysis.
-- Skill-gap identification.
-- Personalized job recommendations.
-- Interview question practice.
-- Company application tracking.
-
-**Stack:** React · Java · Spring Boot · PDFBox
+**Technology:** TypeScript
 
 <div align="center">
 
-<a href="https://github.com/Malavika-2405">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-312E81?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Malavika-2405/DevCanvas-ai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -136,24 +142,41 @@ An intelligent career guidance and resume analysis application.
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">🍲 Instant Recipe Generator</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Web%20Application-Recipe%20Recommendation-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-RECIPE%20RECOMMENDATION-EA8DA8?style=flat-square"/>
 </div>
 
 A smart recipe recommendation application that suggests recipes using available ingredients through image detection or manual input.
 
-**Features:** Food-image detection · Ingredient filtering · Favourites · Ratings · Nutritional information.
+- Food-image detection.
+- Ingredient filtering.
+- Favourites and ratings.
+- Nutritional information.
 
-**Stack:** Python · Flask · HTML · CSS · JavaScript
+**Technologies:** Python · Flask · HTML · CSS · JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎵 Audio Frequency Comparison</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/PYTHON-AUDIO%20ANALYSIS-F2B6C6?style=flat-square"/>
+</div>
+
+A project focused on voice similarity evaluation using frequency-domain analysis.
+
+**Technology:** Python
 
 <div align="center">
 
-<a href="https://github.com/Malavika-2405">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0F766E?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Malavika-2405/Audio-Frequency-Comparison">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -163,51 +186,81 @@ A smart recipe recommendation application that suggests recipes using available 
 
 ---
 
-<h2 align="center">◈ GITHUB ANALYTICS</h2>
+<h2 align="center">୨୧ CURRENTLY BUILDING ୨୧</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Malavika-2405&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" />
+### 🤖 AI-Powered Career Compass
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-2405&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
+An AI-powered career guidance application currently under development.
 
-<br/><br/>
+- Resume analysis.
+- Skill-gap identification.
+- Personalized job recommendations.
+- Interview question practice.
+- Company application tracking.
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Malavika-2405&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+**Technologies:** React · Java · Spring Boot · PDFBox
+
+<text>Backend development and integration are still in progress.</text>
 
 </div>
 
 ---
 
-<h2 align="center">◈ MY DEVELOPER JOURNEY</h2>
+<h2 align="center">୨୧ GITHUB ACTIVITY ୨୧</h2>
+
+<div align="center">
+
+<a href="https://github.com/Malavika-2405?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Malavika-2405?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20MY%20CONTRIBUTIONS-EA8DA8?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">୨୧ MY DEVELOPER JOURNEY ୨୧</h2>
 
 <div align="center">
 
 | Focus | Current Direction |
 |:---|:---|
-| Programming | Java & DSA |
-| Development | Full-stack applications |
+| Programming | Java, Python, C |
+| Problem Solving | Data Structures & Algorithms |
+| Development | Web & Full-stack applications |
 | AI | LLM testing & intelligent applications |
-| Career | Software / Systems Engineering |
-| Goal | Become a strong problem solver |
+| Career Goal | Software / Systems Engineering |
 
 </div>
 
 ---
 
-<h2 align="center">◈ CONNECT WITH ME</h2>
+<h2 align="center">୨୧ LET'S CONNECT ୨୧</h2>
 
 <div align="center">
 
 <a href="https://github.com/Malavika-2405">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GITHUB-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Building my future, one line of code at a time.**
+**Dream big. Keep learning. Build something meaningful.** 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:172554,100:020617&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F4AFC4,100:DB7093&height=120&section=footer" width="100%"/>
 
 </div>
+
+
+
+
+
+
 
