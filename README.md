@@ -1,4 +1,3 @@
-
 [![GitHub](https://img.shields.io/badge/GitHub-Malavika--2405-EA8DA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malavika-2405)
 
 <div align="center">
@@ -14,12 +13,6 @@
 <img src="https://img.shields.io/badge/GRADUATION-2027-EA8DA8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20SYSTEMS-DB7093?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LOCATION-INDIA-F2B6C6?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/Malavika-2405">
-<img src="https://img.shields.io/badge/GitHub-Malavika--2405-EA8DA8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -128,22 +121,30 @@ An automated LLM quality and reliability testing platform.
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="./devcanvas-ai-banner.png" width="100%" alt="DevCanvas AI Banner"/>
+<img src="./ai-career-compass-banner.png" width="100%" alt="AI Career Compass Banner"/>
 </div>
 
-<h3 align="center">🎨 DevCanvas AI</h3>
+<h3 align="center">🤖 AI-Powered Career Compass</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/WEB-APPLICATION-F2B6C6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-CAREER%20GUIDANCE-F2B6C6?style=flat-square"/>
 </div>
 
-An AI-focused development project built with modern web technologies.
+An intelligent career guidance and resume analysis application.
 
-**Technology:** TypeScript
+- Resume analysis and ATS scoring.
+- Skill-gap identification.
+- Personalized job recommendations.
+- Interview question practice.
+- Company application tracking.
+
+**Technologies:** React · Java · Spring Boot · PDFBox
+
+<sub>Backend development and integration in progress.</sub>
 
 <div align="center">
 
-<a href="https://github.com/Malavika-2405/DevCanvas-ai">
+<a href="https://github.com/Malavika-2405/AI-Career-Compass">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -166,15 +167,15 @@ An AI-focused development project built with modern web technologies.
 
 A smart recipe recommendation web application that helps users discover recipes based on ingredients available in their kitchen.
 
-- 🥕 Image-based ingredient detection.
-- ✍️ Manual ingredient input.
-- 🍽️ Personalized recipe recommendations.
-- 🌎 Cuisine and dietary preference filters.
-- ⏱️ Cooking time and serving size customization.
-- 📊 Nutritional information.
-- ❤️ Favourite recipes and ratings.
-- 🛒 Shopping list generation.
-- 🎲 Surprise Me feature.
+- Image-based ingredient detection.
+- Manual ingredient input.
+- Personalized recipe recommendations.
+- Cuisine and dietary preference filters.
+- Cooking time and serving customization.
+- Nutritional information.
+- Favourite recipes and ratings.
+- Shopping list generation.
+- Surprise Me feature.
 
 **Technologies:** Python · Flask · HTML · CSS · JavaScript · SQLite · Gemini API
 
@@ -185,7 +186,6 @@ A smart recipe recommendation web application that helps users discover recipes 
 </a>
 
 </div>
-
 </td>
 
 <td width="50%" valign="top">
@@ -214,28 +214,6 @@ A project focused on voice similarity evaluation using frequency-domain analysis
 </td>
 </tr>
 </table>
-
----
-
-<h2 align="center">୨୧ CURRENTLY BUILDING ୨୧</h2>
-
-<div align="center">
-
-### 🤖 AI-Powered Career Compass
-
-An AI-powered career guidance application currently under development.
-
-- Resume analysis.
-- Skill-gap identification.
-- Personalized job recommendations.
-- Interview question practice.
-- Company application tracking.
-
-**Technologies:** React · Java · Spring Boot · PDFBox
-
-Backend development and integration are still in progress.
-
-</div>
 
 ---
 
